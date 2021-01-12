@@ -96,3 +96,16 @@ body{
   width: 33%;
   height: 400px;
 }
+footer ul{
+        list-style: none;
+        bottom: 0;
+        height:25px;
+        border-top: 2px solid rgb(180, 180, 180);
+        padding: 8px;
+        margin-left: -10px;
+
+}
+footer ul li {
+  list-style: none;
+
+}
